@@ -1,0 +1,18 @@
+minitask
+
+minitask is a file based cli issue tracker. The intent of this app is to provide a way for small teams to manage their issues with ease, without having to leave their project.
+
+• File based - all issues as stored as human-readable markdown files, and can be edited without using the cli
+• CLI - the CLI can be used to quickly browse tasks, view, edit, create, delete them.
+
+Commands
+
+minitask - open the cli
+
+minitask new [name] --description --status --priority --tags --id - create new task
+
+minitask edit [id] - edit task
+
+minitask delete [id]
+
+minitask list --status --priority --tags --id --name --description --sort - list tasks, filter them and sort

@@ -1,0 +1,19 @@
+I made a small MVP called [Groceries Helper](https://groceries-helper.vercel.app/). It's a web app that helps you track your groceries and plan shopping trips.
+
+You can create a list of items that you buy most often, enter their prices for multiple stores, and then you can plan your grocery list by selecting which items, how many and from which store you want to buy. It also calculates the total cost of your list.
+
+The product is aimed at people who do groceries often and want to streamline their shopping-list-making process.
+
+Market size is probably quite big because most people do grocery shopping often
+
+Competition: [Listonic](https://play.google.com/store/apps/details?id=com.l)
+
+The main differentiator between Groceries Helper and Listonic is that Groceries Helper allows you to set prices for various stores and calculates the total sum of your grocery cost
+
+I'm currently in MVP and validation stage, trying to gather feedback from people on whether this could be useful. Currently I don't have any expenses but that might change if more people start using it. I'd probably rather go bootstrapped than funded.
+
+Currently my customer acquisition strategy consists of simply sharing this app on various subreddits.
+
+I think I'm well suited for building this app because I'm a fairly experienced developer. 
+
+Let me know if you think this could be useful, any feedback appreciated!

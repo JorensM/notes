@@ -1,0 +1,5 @@
+Have you ever set a reminder using your alarm clock? I know I have. But recently I discovered a more convenient way - with a built-in reminders app that comes with Samsung phones. In this article I will review it and tell you about its features, and how to activate it.
+
+Activating the app
+
+First of all, you should know that the app is hidden by default and the only ways to activate it is through the native Calendar app, the Samsung Notes app or Microsoft To-Do. Once you activate it, it will show up in your app screen. I will now tell you how to activate it through the native Calendar app.

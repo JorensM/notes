@@ -1,0 +1,10 @@
+* Follow system where people can follow each other's projects and profiles and get notified when new posts are posted. A user can either follow a user and get updates on all their projects, or follow a particular project
+* Posts where users can share their progress on their project and followers/supporters can leave comments and feedback.
+* Feed page where user can see latest posts from people/projects that they're following
+* "Explore projects" page where user can find new projects to follow/support
+* Supporter system. A project creator can set their project to 'open to all supporters', 'open to supporters with particular skills' 'closed to new supporters', and then supporters can offer their help. Project owner can also send invites to potential supporters.
+* Task/ticket board where the project owner can create tasks for their supporters. They can either assign a task to particular supporters, or leave it open for any supporter with matching skills to take.
+* Milestones - project owner can post milestones which are general long term goals
+* Supporter4supporter system that project owners can apply to, which will match project owners with each other so they can support each other's project.
+* Project page. On the project page, the user can view the project's description  posts, supporters, milestones and tasks (optional to show for project owner)
+* Profile page. On the profile page, you can see project's that the user owns as well as projects that they are supporting.

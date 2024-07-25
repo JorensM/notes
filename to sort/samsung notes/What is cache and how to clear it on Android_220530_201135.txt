@@ -1,0 +1,19 @@
+You've probably heard or read somewhere that you should clear your phone's cache to make it run faster. In this article I will explain what is cache and how to clear it on an Android device.
+
+What is cache?
+As per this wikipedia article[https://en.m.wikipedia.org/wiki/Cache_(computing)], cache memory is " a hardware or software component that stores data so that future requests for that data can be served faster".
+
+Basically it is memory that is accessible faster than regular memory, which allows for your device to do certain tasks faster.
+
+Cache is usually temporary, local-to-session memory that gets cleared once the user exits the app/program. But many apps are bad at clearing their cache, so you have to occasionally do this manually, in order to improve your phone's performance.
+
+The drawback of cache memory is that it is(usually) closer to the CPU than regular memory, so it can hinder your phone's performance if there is too much stored in the cache
+
+Why is cache useful?
+Cache memory is useful because it allows for your device to load data faster. Let's take browsers as an example. When you visit a webpage for the first time, the browser downloads this page (and any dependant files, such as images and scripts) and stores it in the cache. Then, any subsequent visits to the same page will not be downloaded anymore, but loaded from the cache. This allows for your browser to display the page faster, because loading the page from the cache is faster than downloading it.
+
+Benefits of clearing cache
+Clearing cache gives you more storage space for files such as images and videos, and also improves the performance of your CPU (thus making your device run faster).
+
+Drawbacks of clearing cache
+Browser example.

@@ -1,0 +1,3 @@
+• Offline package manager
+• Size calculator for all packages from package.json
+• Bookmark manager app

@@ -1,0 +1,18 @@
+Hi!
+
+I've decided to join Hacktoberfest this year. Truth be told, I didn't even know about it up until about 2 months ago. I've been an active developer for some 4 years now, but somehow Hacktoberfest has passed by unnoticably until recently.
+
+I am very passionate about coding and open-source, so an event dedicated purely to that certainly resonates with me, so I've decided to participate in it.
+
+Why I'm participating
+I'm passionate about coding and open source, but still haven't made any significant contributions to any open source projects (except feature requests and bug reports). Joining Hacktoberfest is a great initiative for me to get more involved with open source. Additionally this is a great learning opportunity.
+
+The plan
+My Hacktoberfest plan is as follows:
+
+1. Find project/projects to contribute to
+2. Contribute to them
+
+Occasionally I'll be posting about my progress here on DEV. My first post will be about finding projects to contribute to.
+
+So this is my Hacktoberfest pledge, thanks for reading!
