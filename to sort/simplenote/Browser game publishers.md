@@ -1,5 +1,0 @@
-Browser game publishers
-Armor Games
-CoolMathGames
-AddictingGames
-CrazyGames
