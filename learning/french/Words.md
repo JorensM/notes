@@ -1,5 +1,6 @@
 
 **Avoir** - to have
+
 *J'ai deux chats* - I have two cats.
 
 | Pronoun   | Verb  |
@@ -12,6 +13,7 @@
 | Elles/ils | ont   |
 
 **Aller** - to go
+
 *Tu vas à la boulangerie* - You are going to the bakery
 
 | Pronoun   | Verb   |
