@@ -10,6 +10,7 @@
 | Nous      | avons |
 | Vous      | avez  |
 | Elles/ils | ont   |
+
 **Aller** - to go
 *Tu vas à la boulangerie* - You are going to the bakery
 
