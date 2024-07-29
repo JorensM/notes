@@ -1,0 +1,1 @@
+Do you ever try to take a sip from a mug but the liquid is too far away from your lips and you don't want to make the extra effort so you just don't take the sip? 
