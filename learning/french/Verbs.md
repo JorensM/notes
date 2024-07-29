@@ -25,7 +25,7 @@
 | Vous      | allez  |
 | Elles/Ils | vont   |
 
-**Voloir** - to want
+**Vouloir** - to want
 
 *Nous voulons un animal de compagnie* - We want a pet
 
@@ -38,3 +38,14 @@
 | Nous | voulons |
 | Vous | voulez |
 | Elles/ils | veulent |
+
+**être** - to be
+
+| Pronoun | Verb |
+| ------ | ------ |
+| Je | suis |
+| Tu | es |
+| Elle/il |  est |
+| Nous | sommes |
+| Vous | êtes |
+| Elles/ils | sont |
