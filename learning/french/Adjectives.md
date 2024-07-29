@@ -29,4 +29,4 @@ Amusant - funny, fun.
 
 Content - happy.
 
-> Vous es content? - Are you happy?
+> Vous êtes content? - Are you(plural) happy?
