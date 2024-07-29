@@ -21,9 +21,12 @@ Below are some examples:
 
 Intelligent - intelligent
 
-Il est très intelligent - he is very intelligent.
+> Il est très intelligent - he is very intelligent.
 
 Amusant - funny, fun.
 
-Je suis amusant - I am funny
+> Je suis amusant - I am funny
 
+Content - happy.
+
+> Vous es content? - Are you happy?
