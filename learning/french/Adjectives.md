@@ -17,6 +17,36 @@ Below are some examples:
 | **Masculine** | amusant | amusants
 | **Feminine** | amusante | amusantes
 
+## Possessive adjectives
+
+Possessive adjectives are adjectives that describe what or whom something or someone belongs to. These are words like 'my', 'your', 'their'.
+
+In French, the form of a possessive adjective changes depending on the gender and plural/singular form of the noun that it is referring to.
+
+For example, to say 'my dad', you would say 'mon père', whereas for 'my mom' you would say 'ma mère', and for 'my parents' you would say 'mes parents'.
+
+Below is a full chart of all possessive adjectives and their forms
+
+| English | Masculine | Feminine | Plural |
+| - | - | - | - |
+| My | Mon | Ma | Mes |
+| Your (informal) | Ton | Ta | Tes |
+| His, her | Son | Sa | Ses |
+| Our | Notre | Notre | Nos |
+| Your (plural of formal) | Votre | Votre | Vos |
+| Their | Leur | Leur | Leurs |
+
+### Exceptions
+
+An exception to possessive adjective forms is when a singular noun starts with a vowel, in which case regardless of its gender, you use the masculine form to refer to it.
+
+For example to say 'my (female) friend', you would say 'Mon amie' instead of 'Ma amie', even though 'amie' is feminine.
+
+### Examples
+
+> C'est mon frère Andrew - this is my brother Andrew
+> Où es
+
 ---
 
 Intelligent - intelligent
