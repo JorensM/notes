@@ -44,8 +44,9 @@ For example to say 'my (female) friend', you would say 'Mon amie' instead of 'Ma
 
 ### Examples
 
-> C'est mon frère Andrew - this is my brother Andrew
-> Où es
+> C'est mon frère Andrew.` - this is my brother Andrew.
+> Où est ta sœur? - where is your sister?
+> Ce sont nos animals de compagnie. - These are our pets.
 
 ---
 
