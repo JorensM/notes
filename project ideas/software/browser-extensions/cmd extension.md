@@ -1,0 +1,1 @@
+An extension that would let you use the browser's API via command line.
