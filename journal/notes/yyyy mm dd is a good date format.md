@@ -1,0 +1,1 @@
+Because then it can be sorted correctly even as a string/text
