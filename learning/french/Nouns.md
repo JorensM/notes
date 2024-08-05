@@ -7,3 +7,11 @@ Frère - brother
 Fils - son
 
 > Tu as un fils? - Do you have as son?
+
+Pére, mére - father, mother
+
+> Ce sont mes pére et mére
+
+Parents - parents
+
+> Ou sont
