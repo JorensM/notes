@@ -18,4 +18,4 @@ Parents - parents
 
 Grandparents, grandpére, grandmére - Grandparents, grandfather, grandmother.
 
-> *Ils est
+> *Ils sont tes grandparents?* - They are your grandparents?
