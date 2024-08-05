@@ -41,6 +41,8 @@
 
 **être** - to be
 
+*Je suis content* - I am happy
+
 | Pronoun | Verb |
 | ------ | ------ |
 | Je | suis |
