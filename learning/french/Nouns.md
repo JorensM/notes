@@ -14,4 +14,4 @@ Pére, mére - father, mother
 
 Parents - parents
 
-> Ou sont
+> Òu sont tes parents? - Where are your parents?
