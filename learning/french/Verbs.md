@@ -51,3 +51,16 @@
 | Nous | sommes |
 | Vous | êtes |
 | Elles/ils | sont |
+
+**habiter** - to live
+
+*J'habite à Paris* - I live in Paris
+
+| Pronoun | Verb |
+| ------ | ------ |
+| J' | habite |
+| Tu | habites |
+| Elle/il |  habite |
+| Nous | habitons |
+| Vous | habitez |
+| Elles/ils | habitent |
