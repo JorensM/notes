@@ -8,6 +8,12 @@ This is a document outlining some ideas for a website with Latvians as the targe
 * Latvian - English learning platform.
 * A GPS app like Waze
 
+I was asked by one of the commenters on the thread to post an update once I've decided on the app that I'll be building.
+
+To ping:
+
+ * [This-isnt-you](https://www.reddit.com/user/This-isnt-you/)
+
 Sources:
 
 * https://www.reddit.com/r/latvia/comments/1f3wice/what_kind_of_website_is_missing_amongst_latvians/
