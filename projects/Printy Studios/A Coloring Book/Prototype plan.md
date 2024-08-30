@@ -8,6 +8,8 @@ Each page should have creases so the page can easily be torn out.
 
 Consider using thicker paper than A4 so that markers can be used for coloring.
 
+The book should be oriented horizontally
+
  1. Draw out the pages. Estimate is 32-50 pages.
  2. Decide on the texts. Poetry? Writing? A mix?
  3. Decide on the structure and layout of the pages. Where should the text go?
