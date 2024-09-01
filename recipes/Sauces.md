@@ -1,3 +1,5 @@
+(Servings for 2)
+
 Tomato sauce
 
 * 1 Tbsp extra virgin olive oil (optional)
@@ -40,3 +42,7 @@ Cashew cream
 * 1/4 tsp paprika
 * Salt and fresh ground black pepper to taste
 * 1/2 to 1 cup water
+
+Sources:
+
+* https://www.nomeatathlete.com/sauce-system/
