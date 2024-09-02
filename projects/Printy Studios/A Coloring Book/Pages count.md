@@ -1,5 +1,5 @@
 Goal: 32
-Current: 13
-Remaining: 19
+Current: 14
+Remaining: 18
 
 Deadline: September 14
