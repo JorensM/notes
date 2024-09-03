@@ -3,3 +3,4 @@
 * A trash bin for my room
 * A sortable portfel for my papers
 * Phone case
+* Mini fridge
