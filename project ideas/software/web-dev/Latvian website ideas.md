@@ -7,6 +7,7 @@ This is a document outlining some ideas for a website with Latvians as the targe
 * A website as a directory of all the Latvian nature paths, historical objects etc. The issue is that information on this is available online, but it is scattered across many websites and hard to find. *Vienotu lapu ar VISĀM dabas takām, apskates objektiem utt. Igauņiem ir ļoti laba lapa, kur vari atlasīt, kas Tevi interesētu... vai tikai viesu nami vai tikai lieli akmeņi. Latviešiem ir jāskatās teju katrā pagasta lapā, kas tur ir apskatāms. Ir kaut kādas pāris lielākas apkopojumu lapas, bet tur arī tik daudz kā trūkst, ka nav vērts izmantot. Un pārsvarā tikai viesu nami vai baznīcas redzamas.*
 * Latvian - English learning platform.
 * A GPS app like Waze
+* An app for tracking price changes in online stores
 
 I was asked by one of the commenters on the thread to post an update once I've decided on the app that I'll be building.
 
