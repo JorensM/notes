@@ -4,3 +4,4 @@
 * A sortable portfel for my papers
 * Phone case
 * Mini fridge
+* Cloth for cleaning computer
