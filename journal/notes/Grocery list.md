@@ -10,3 +10,4 @@
 * Chocolate 2x 5.40
 * Cheese for 2eur
 * Rulete 2x
+* Ketchup Hellmanns
