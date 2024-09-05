@@ -3,11 +3,12 @@
 * Sticker paper
 * Portfel
 
-* Malboro touch 2x
+* Malboro touch 3x
 * Water 5l
 * Bread 2x
-* Milk 2x
-* Chocolate 2x 5.40
+* Milk 3x
+* Chocolate 2x
 * Cheese for 2eur
-* Rulete 2x
+* Rulete 3x
 * Ketchup Hellmanns
+* RC Cola
