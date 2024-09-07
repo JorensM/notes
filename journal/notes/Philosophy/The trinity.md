@@ -18,4 +18,4 @@ One of the first things is nothing. And the other is everything. And the third t
 
 Nothing is nothing at all. Everything is everything, including nothing and anything. And anything is well, anything. It might be just solely nothing, it could be solely everything, it could be something but not necessarily completely everything nor completely nothing.
 
-Anything is a bridge that holds everything  together and in balance, and also a doorway into other possibilities, other than everything and nothing. Anything could be the missing piece that explains how everything holds together and doesn't fall apart.
+Anything is a bridge that holds everything  together and in balance, and also a doorway into other possibilities, other than everything and nothing.
