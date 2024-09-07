@@ -1,6 +1,6 @@
 Here's what I've been thinking about lately
 
-First there was a thing, what kind of a thing it was, I'm not sure, but probably either nothingness or everythingness
+First there was a thing, what kind of a thing it was, I'm not sure, but probably either nothing or everything
 
 After a while, another thing occured. It was the polar opposite of the first thing
 
