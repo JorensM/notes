@@ -1,4 +1,7 @@
-* Sponges
-* Dish soap
-* Sticker paper
-* Portfel
+* Eļļa
+* Siers
+* Baltmaize
+* Suņu barība
+* Suņu desa
+* Ūdens 2x
+* Papīrs
