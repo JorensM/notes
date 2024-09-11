@@ -1,0 +1,4 @@
+# My four pillars of priority
+I'm sure that many of us, myself included, have at some point Googled or browser the web to find some information on how to live life 'right', some kinds of methodologies or principles that would guide us towards having a balanced and fulfilling life. I've been such a person multiple times in my life. So today I decided to write a little about what I think would be my own basic principles and methodologies. I would like to talk about the four pillars of priority.
+
+*Disclaimer: although I am in support of these principles and think that they are a solid foundation, I must admit that I haven't yet fully incorporated them into my life, so take what I say with a grain of salt and apply your own perspective and interpretation*
