@@ -56,7 +56,10 @@ Anything is a bridge that keeps the two opposites in balance and harmony.
 The end.
 
 **Page 19**
-So that was my tale.
+A new day,
+A fresh page,
+It's time to...
+
 
 **Page 20**
-What is yours?
+...create.
