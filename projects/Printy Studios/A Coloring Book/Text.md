@@ -10,13 +10,16 @@ Was it everything?
 **Page 4**
 Or nothing?
 
-**Page 3**
+**Page 4**
 Whatever it was, or is, or will be, it seems to have been completely whole, completely equal, with nothing to tell it apart from.
 
-**Page 4**
+**Page 5**
 After a while, somehow, someway, a difference occured. It was the complete opposite of the initial wholeness.
 
-**Page 5**
+**Page 6**
+At the border where the things meet
+
+**Page 6**
 It is not known whether the initial wholeness was everything or if it was nothing, but it has been said that
 
 **Page 6**
