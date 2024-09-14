@@ -1,1 +1,0 @@
-At first, there was stillness.
