@@ -4,6 +4,11 @@
 * Pupiņas tomātu mērcē 4x
 * Cīgas 12
 * Musli Jogurts
+* Dzeramais jogurts (Baltais)
+* Garšīgais dzert
+* Garšīgais
 * Persilāda
 * Siers
 * Baltmaize
+* Kefīrs
+* Krējums
