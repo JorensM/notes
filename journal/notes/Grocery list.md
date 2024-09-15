@@ -12,3 +12,4 @@
 * Baltmaize
 * Kefīrs
 * Krējums
+* Piens 1x
