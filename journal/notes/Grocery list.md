@@ -13,3 +13,5 @@
 * Kefīrs
 * Krējums
 * Piens 1x
+* Tortillija
+* Iceberg lettuce
