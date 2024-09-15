@@ -16,3 +16,4 @@
 * Tortillija
 * Iceberg lettuce
 * Požarska kotletes
+* Marinēti gurķi
