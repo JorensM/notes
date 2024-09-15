@@ -17,3 +17,4 @@
 * Iceberg lettuce
 * Požarska kotletes
 * Marinēti gurķi
+* Toilet paper
