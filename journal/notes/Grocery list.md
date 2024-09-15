@@ -15,3 +15,4 @@
 * Piens 1x
 * Tortillija
 * Iceberg lettuce
+* Požarska kotletes
