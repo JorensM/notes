@@ -5,3 +5,4 @@
 * Phone case (perhaps a custom one)
 * Mini fridge
 * Cloth for cleaning computer
+* FL Studio
