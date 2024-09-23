@@ -1,5 +1,10 @@
 * Spūldzītes
 * Pupiņas tomātu mērcē 4x
-* jogurts (Baltais)
+* Jogurts (Baltais)
 * Computer Wipes
+* Superlīme
 * Paper for prints
+* Tualetes papīrs
+* Siers
+* Maize
+* Persilāde
