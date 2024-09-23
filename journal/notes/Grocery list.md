@@ -17,3 +17,4 @@
 * Marinēti gurķi
 * Iceberg lettuce
 * Kukurūza
+* Cīgas
