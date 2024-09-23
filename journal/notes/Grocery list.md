@@ -7,9 +7,13 @@
 * Tualetes papīrs
 * Siers
 * Maize
+* Maize (kvadrātaina)
 * Persilāde
 * Ūdens
 * Garšīgais dzēriens
 * Zupiņas
 * Roltons bez gaļas garšas (vai arī ar, Saijai)
 * Cukurs
+* Marinēti gurķi
+* Iceberg lettuce
+* Kukurūza
