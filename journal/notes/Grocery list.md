@@ -1,6 +1,6 @@
 * Spūldzītes
 * Pupiņas tomātu mērcē 4x
-* Jogurts (Baltais)
+* Dzeramais Jogurts (Baltais)
 * Computer Wipes
 * Superlīme
 * Paper for prints
@@ -8,3 +8,8 @@
 * Siers
 * Maize
 * Persilāde
+* Ūdens
+* Garšīgais dzēriens
+* Zupiņas
+* Roltons bez gaļas garšas (vai arī ar, Saijai)
+* Cukurs
