@@ -1,5 +1,7 @@
-* Computer Wipes
-* Paper for prints
-* Spūldzītes
-* Špaktele
-* Burger sauce
+* Instant Coffee
+* Mug/cup
+* Yogurt
+* Curd Snack
+* Sponges
+* Fairy
+* Water
