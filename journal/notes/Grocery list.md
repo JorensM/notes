@@ -1,10 +1,5 @@
-* Instant Coffee
 * Mug/cup
-* Yogurt
-* Curd Snack
-* Milk
-* Sponges
-* Fairy
-* Water
-
-* Pens
+* Paper for prints
+* Zaglītis
+* Špaktele
+* Wall Paint
