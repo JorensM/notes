@@ -25,9 +25,11 @@ Some ways to come up with an idea include:
  * Consider whether social trends might affect the demand for your product
 
 
+### Is there a market for your idea?
 
 
 
 Sources: 
 
   * https://www.bgateway.com/resources/how-to-start-a-business-the-basics
+  * https://www.bgateway.com/resources/developing-new-products-and-services
