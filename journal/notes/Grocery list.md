@@ -1,5 +1,5 @@
-* Mug/cup
 * Paper for prints
-* Zaglītis
 * Špaktele
-* Wall Paint
+* Wall paint (just check options, don't buy)
+* Oil
+* Coffee
