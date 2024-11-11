@@ -1,4 +1,3 @@
-* Pupiņas 7x
 * Bagetes 4x
 * Iceberg Lettuce
 * Tomāti
@@ -6,3 +5,6 @@
 * Majonēze
 * Paprika
 * Mar. Gurķi
+* Jogurts
+* Tribit
+* RC Kola
