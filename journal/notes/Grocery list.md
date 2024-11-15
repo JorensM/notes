@@ -1,2 +1,2 @@
 * Roko kūka (TOP, Aibe)
-* LED lampa lādējamā (viss mājai vai vērsītid)
+* LED lampa lādējamā (viss ğimenei vai vērsītis)
