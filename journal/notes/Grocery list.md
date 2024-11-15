@@ -1,10 +1,2 @@
-* Bagetes 4x
-* Iceberg Lettuce
-* Tomāti
-* Siers
-* Majonēze
-* Paprika
-* Mar. Gurķi
-* Jogurts
-* Tribit
-* RC Kola
+* Roko kūka (TOP, Aibe)
+* LED lampa lādējamā (viss mājai vai vērsītid)
