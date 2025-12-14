@@ -1,0 +1,9 @@
+“See how your code changes impact your visitors.”
+
+“Correlate Git commits with visitor traffic to measure real impact.”
+
+“Link your GitHub commits with Google Analytics to understand which changes matter.”
+
+“Stop guessing which commits leave impact. Connect GitHub with Google Analytics and see the impact of your changes in real time.”
+
+“Bridge the gap between engineering and analytics to focus on what drives results.”

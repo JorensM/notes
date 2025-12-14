@@ -1,0 +1,66 @@
+In the sense of time being an illusion it could be described as a vector in spatial/geometric terms.
+
+Or maybe an axis
+
+Vt(1)
+
+...
+
+It could make sense for weight distribution to be a form element, like shape, based on the idea that an object's distribution of weight
+alongside its form determines its anchor point.
+
+...
+
+A magnet is a material that is able to attract certain metals and interact with other magnets in unique ways.
+
+A magnet has a field that can be visualized as a flat plane, plate or a coin in the middle of it.
+
+The field has 2 sides.
+
+When interacting with a metal, both sides of the field are attractive (+)
+
+When interacting with other magnets, one side of each magnet becomes attractive, and the other side - repulsive (-)
+
+There is no way to determine which side of a magnet is attractive and which is repulsive before coming in
+contact with another magnet. Not because we may lack the means to determine them, but because they are indeterminate by nature. 
+This ties to quantum mechanics concept of superposition and physical uncertainty, where indeterminism becomes an underlying 
+trait of the physical reality instead of merely a psychological illusion.
+
+Before interaction with another magnet, both sides of the field exist in a superpositioned state where either side could become either
+attractive or repulsive. Before coming in contact, both sides of both magnets are attractive to each other. 
+Once magnets start interacting, the superposition may collapse and they may acquire a field or an orientation/current
+that is determinate. The condition for superposition collapsing is determining the orientation of a magnet/group of magnets.
+
+In a determinate state 
+all magnets will have the same orientation
+~~(attractive sides facing each other and repulsive sides facing outwards)~~
+
+A magnet or a group of magnets can be thought to be indeterminate and ++ attractive as long as they share same/similar form and the sides
+cannot be distinguished.
+
+A magnet can retain its indeterminate state while displaying magnetism when interacting with metals, since both sides of a magnet
+will attract a metal (and both sides being attractive is an indicator of indeterminism in magnets)
+
+When thinking in quantum magnets or conducting experiments, it's easier to picture it by using magnets that are symmetrical and one 
+side being indistinguishable from the other.
+
+The condition for this theory is the that the current direction of a single magnet cannot be determined/observed without coming
+in contact with another magnet.
+
+A proposal to introduce a concept of a superangle - a rotation angle that is indeterminate.
+
+Magnets and groups of magnets might display properties of entanglement.
+
+When a metal interacts with a group of magnets, it acquires an orientation if the group is determinate. If the state is indeterminate,
+for example with a single magnet, then the metal remains ++
+
+Basic magnetic structures:
+
+Unit (single magnet). A single magnet is considered indeterminate and ++ attractive (both sides are attractive) until it comes in contact
+with another magnet.
+
+Pair (two magnets). Two magnets joined together bond/pair ~~and create a field and a current with an orientation~~. At this point, 
+indeterminism can be retained, and both magnets can be thought to be ++ attractive if they share same/similar form and the sides
+cannot be distinguished.
+
+

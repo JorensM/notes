@@ -1,0 +1,1 @@
+• view your actions and habits as more meaningful and impactful by associating the action as taking more time and effort (due to needing to track it, or by attaching a ritualistic cue) and due to paying more attention to it

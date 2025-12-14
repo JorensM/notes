@@ -1,0 +1,1 @@
+Perhaps focus on goals when tired/sleepy

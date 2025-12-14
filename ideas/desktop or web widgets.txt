@@ -1,0 +1,5 @@
+Basically some kind of a widget feature for native windows, similar to Android,
+that you could put on your Desktop.
+
+The idea I had is that so I don't have to, say, login to Vercel each time I want to check the analytics,
+I could just make some kind of a widget and put it on my desktop

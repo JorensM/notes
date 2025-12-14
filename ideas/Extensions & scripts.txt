@@ -1,0 +1,1 @@
+Write a script that takes the weekly Console email and adds the tools to a db/spreadsheet
