@@ -1,0 +1,3 @@
+Add support for communication between 2FA apps and browsers,
+so websites can request 2fa without needing to use
+a code or open the 2fa app.
